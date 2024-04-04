@@ -1,5 +1,4 @@
-# bilingual-model
-Steps to complete the task:
+# Steps to complete the task:
 1. To carry out the task, I chose 2 models designed for machine translation from here: https://huggingface.co/Helsinki-NLP. 
 One model is for translating from Spanish to Russian, and the other is from Russian to Spanish.
 
